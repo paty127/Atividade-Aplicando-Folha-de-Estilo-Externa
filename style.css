@@ -1,0 +1,68 @@
+
+
+
+main{
+    width: 400px;
+    border-width: 1px;
+    border-style: solid  color #1b1a28 ;
+    background-color: #5380dc;
+}
+body{
+    background-color: blue;
+}
+
+.figure{
+    text-align: center;
+    width:  250px;
+
+
+}
+section{
+    width: 600px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    border-radius: 50px;   
+    
+
+}
+h1{
+
+    font-size: 25px;
+    color: #205ec2;
+}
+
+h2{
+
+
+    font-weight:normal;
+    font-size: 18px;
+   
+}
+a{
+    color: #205ec2;
+
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+
+    .bloco1{  height: 10em;
+        position: relative 
+
+    }
+    .bloco1{
+        margin: 0;
+    background: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    }
+    a:hover {
+        background-color: lightseagreen;
+        color: #1b1a28;
